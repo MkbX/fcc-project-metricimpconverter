@@ -1,0 +1,40 @@
+body {
+    background-color: #f1efff !important;
+   
+    
+}
+
+section, #testui, form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/*
+header {
+    
+    background-color: #1e7c7e;
+}
+
+code {
+    background-color: whitesmoke;
+}*/
+
+section, header {
+    margin: 50px;
+}
+
+/*
+p {
+    color: #777777;
+}
+
+#convertForm {
+    border-radius: 3px;
+     border: 2px solid black;
+   box-shadow: 0 0 3rem 0 rgb(43 86 112 / 10%);
+}
+
+#convert {
+    background-color: #EEF4FF;
+    border-radius: 7px;
+}*/
